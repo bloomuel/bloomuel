@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi, I'm Sam. I'm studying electrical and computer engineering at Olin College of Engineering.
 
 <!--
 **bloomuel/bloomuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
