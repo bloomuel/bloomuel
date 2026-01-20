@@ -1,6 +1,6 @@
 Hi, I'm Sam. I'm studying electrical and computer engineering at Olin College of Engineering.
 
-[![Website](https://img.shields.io/badge/website-bloomuel.dev-black)](https://bloomuel.github.io/portfolio/)
+[![Website](https://img.shields.io/badge/website-bloomuel-black)](https://bloomuel.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-Samuel--Bloom-blue)](https://www.linkedin.com/in/bloom-samuel/)
 [![Email](https://img.shields.io/badge/email-s.bloomuel@gmail.com-red)](mailto:s.bloomuel@gmail.com)
 <!--
